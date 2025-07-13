@@ -57,7 +57,7 @@ A full-stack web application with role-based access control, user management, st
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/AzariushHussain/Roxiler_Systems_Assignment.git
 cd Roxiler_Systems_Assignment
 ```
 
