@@ -1,0 +1,11 @@
+/* Custom styles for the application */
+.loading-spinner {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Any additional custom styles can go here */
